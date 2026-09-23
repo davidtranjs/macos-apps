@@ -73,6 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Dev tools
 
+- [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
@@ -179,7 +180,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
 - [Keka](https://www.keka.io)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-- [Mac Mouse Fixer](https://www.macfix.click/) - Fixes accidental double-clicks and adds smooth scrolling, horizontal scrolling, and wheel zoom for external mice.
+- [Mac Mouse Fixer](https://www.macfix.click/) - Enhance external mice
+- [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.
 - [Lumen](https://github.com/anishathalye/lumen)
 - [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
 - [Name mangler](https://manytricks.com/namemangler/)
